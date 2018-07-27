@@ -1,0 +1,32 @@
+d:\我的文档\visual studio 2010\Projects\DXApplication3\DXApplication3\bin\Debug\DXApplication3.exe.config
+d:\我的文档\visual studio 2010\Projects\DXApplication3\DXApplication3\bin\Debug\DXApplication3.exe
+d:\我的文档\visual studio 2010\Projects\DXApplication3\DXApplication3\bin\Debug\DXApplication3.pdb
+d:\我的文档\visual studio 2010\Projects\DXApplication3\DXApplication3\obj\Debug\DXApplication3.Form1.resources
+d:\我的文档\visual studio 2010\Projects\DXApplication3\DXApplication3\obj\Debug\DXApplication3.Properties.Resources.resources
+d:\我的文档\visual studio 2010\Projects\DXApplication3\DXApplication3\obj\Debug\DXApplication3.csproj.GenerateResource.Cache
+d:\我的文档\visual studio 2010\Projects\DXApplication3\DXApplication3\obj\Debug\DXApplication3.exe.licenses
+d:\我的文档\visual studio 2010\Projects\DXApplication3\DXApplication3\obj\Debug\DXApplication3.exe
+d:\我的文档\visual studio 2010\Projects\DXApplication3\DXApplication3\obj\Debug\DXApplication3.pdb
+d:\我的文档\visual studio 2010\Projects\DXApplication3\DXApplication3\bin\Debug\SuperMap.Data.dll
+d:\我的文档\visual studio 2010\Projects\DXApplication3\DXApplication3\bin\Debug\SuperMap.Layout.dll
+d:\我的文档\visual studio 2010\Projects\DXApplication3\DXApplication3\bin\Debug\SuperMap.Mapping.DLL
+d:\我的文档\visual studio 2010\Projects\DXApplication3\DXApplication3\bin\Debug\SuperMap.Realspace.dll
+d:\我的文档\visual studio 2010\Projects\DXApplication3\DXApplication3\bin\Debug\SuperMap.UI.Controls.dll
+d:\我的文档\visual studio 2010\Projects\DXApplication3\DXApplication3\bin\Debug\SuperMap.Data.Conversion.dll
+d:\我的文档\visual studio 2010\Projects\DXApplication3\DXApplication3\bin\Debug\SuperMap.Data.xml
+d:\我的文档\visual studio 2010\Projects\DXApplication3\DXApplication3\bin\Debug\SuperMap.Layout.xml
+d:\我的文档\visual studio 2010\Projects\DXApplication3\DXApplication3\bin\Debug\SuperMap.Mapping.xml
+d:\我的文档\visual studio 2010\Projects\DXApplication3\DXApplication3\bin\Debug\SuperMap.Realspace.xml
+d:\我的文档\visual studio 2010\Projects\DXApplication3\DXApplication3\bin\Debug\SuperMap.UI.Controls.xml
+d:\我的文档\visual studio 2010\Projects\DXApplication3\DXApplication3\bin\Debug\SuperMap.Data.Conversion.xml
+d:\我的文档\visual studio 2010\Projects\DXApplication3\DXApplication3\bin\Debug\zh-CN\SuperMap.Data.resources.dll
+d:\我的文档\visual studio 2010\Projects\DXApplication3\DXApplication3\obj\Debug\DXApplication3.FormMain.resources
+F:\workingprjs\DXApplication3\DXApplication3\bin\Debug\DXApplication3.exe.config
+F:\workingprjs\DXApplication3\DXApplication3\obj\Debug\DXApplication3.exe
+F:\workingprjs\DXApplication3\DXApplication3\obj\Debug\DXApplication3.pdb
+F:\workingprjs\DXApplication3\DXApplication3\bin\Debug\DXApplication3.exe
+F:\workingprjs\DXApplication3\DXApplication3\bin\Debug\DXApplication3.pdb
+F:\workingprjs\DXApplication3\DXApplication3\obj\Debug\DXApplication3.FormMain.resources
+F:\workingprjs\DXApplication3\DXApplication3\obj\Debug\DXApplication3.Properties.Resources.resources
+F:\workingprjs\DXApplication3\DXApplication3\obj\Debug\DXApplication3.csproj.GenerateResource.Cache
+F:\workingprjs\DXApplication3\DXApplication3\obj\Debug\DXApplication3.exe.licenses
